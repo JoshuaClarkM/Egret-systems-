@@ -1,0 +1,86 @@
+<Doctype html>
+  <html>
+  <heading>
+    <title> Egret systems and engineering limited
+    </title>
+    <style>
+      body {
+        background: black;
+        color: green;
+      }
+    </style>
+
+  </heading>
+
+  <body>
+
+
+
+
+
+    <h1 style="color: blue; text-align: center">
+
+      Egret Systems and Enginering Company Limited </font>
+
+    </h1>
+    <p>
+      <i></i>We offer quality technical services to our clients and at an affordable prices.</i>
+    </p>
+    <h2>
+      <b> Our services we offer</b>
+    </h2>
+    <p>
+      <br>
+      <b> Camera installation </>
+
+        <img src="/Hikvision-8-Camera-Enhanced-IR-CCTV-System-8-CH-Hybrid-P2P-DVR.jpg " alt="image" height="300" width="350">
+        <br>
+        <b>Electrical installation </b>
+        <br>
+        <img src="/shutterstock_2103623756-electrical-supplies.jpg" alt="image" height="300" width="350">k
+        <br>
+        <b>Solar installation</b>
+        <br>
+        <img src=" /Solar-Panels-2.jpg" alt="image" height="300" width="359">
+        <br>
+        <b>Repair services</b>
+        <br>
+        <img src=" /Best-Reliable-Computer-Repair-and-Maintenance-Company-in-Kampala-Uganda.jpg" alt="image" height="300" width="350">
+    </p>
+    <p><i> <b>Contact Engineer Kasim for more information and technical support.</b>
+        <br>
+        <br>
+        <img src="/icon-256x256.png " alt="image" width="15" height:"15">0703965580
+        <br>
+        <img src="/gmail-new-2020-logo-png_seeklogo-389043.png " alt="image" length="15" width="15"> egretsystem256@gmail.com
+      </i> </p>
+    <p>
+      <style>
+        button {
+          background: blue;
+          color: white;
+          border: none;
+          border-raduis: 10px;
+          cursor: pointe;
+          heigh: 15px;
+          width: 50px;
+        }
+      </style>
+      <button>
+        follow</button>
+    </p>
+    <p>
+
+    </p>
+
+
+
+
+
+
+
+
+
+  </body>
+
+  </html>
